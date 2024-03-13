@@ -1,0 +1,10 @@
+# Welcome to my NetworkMiner Home Lab Project repository! This project is dedicated to showcasing my network forensic analysis skills using NetworkMiner, a powerful tool for capturing and analyzing network traffic.
+
+Synopsis
+In this repository, you'll find a curated collection of packet capture files (pcap) captured from various scenarios within my home lab environment. Each pcap file represents a different network activity or event, providing opportunities for analysis and exploration using NetworkMiner.
+
+Goals
+Demonstrate proficiency in using NetworkMiner to extract and analyze network traffic.
+Showcase real-world network scenarios and behaviors within a controlled environment.
+Highlight insights and findings from network forensic analysis, including host identification, protocol analysis, and file extraction.
+
