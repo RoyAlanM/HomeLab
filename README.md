@@ -5,7 +5,7 @@ Welcome to my GitHub repository dedicated to home lab projects aimed at furtheri
 
 ## About Me
 
-I'm Roy Michaud, an aspiring IT professional passionate about learning and growing in the field of technology. With a background in [mention your current role or experience], I'm eager to expand my knowledge and skill set through practical projects and experimentation.
+I'm Roy Michaud, an aspiring IT professional passionate about learning and growing in the field of technology. With a background in IT Help Desk, I'm eager to expand my knowledge and skill set through practical projects and experimentation.
 
 ## Purpose
 
